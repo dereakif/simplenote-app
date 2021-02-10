@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simplenote-app/static/css/main.77e33b8a.chunk.css",
+    "main.js": "/simplenote-app/static/js/main.64a9cb25.chunk.js",
+    "main.js.map": "/simplenote-app/static/js/main.64a9cb25.chunk.js.map",
+    "runtime-main.js": "/simplenote-app/static/js/runtime-main.63e56023.js",
+    "runtime-main.js.map": "/simplenote-app/static/js/runtime-main.63e56023.js.map",
+    "static/js/2.9df176af.chunk.js": "/simplenote-app/static/js/2.9df176af.chunk.js",
+    "static/js/2.9df176af.chunk.js.map": "/simplenote-app/static/js/2.9df176af.chunk.js.map",
+    "index.html": "/simplenote-app/index.html",
+    "static/css/main.77e33b8a.chunk.css.map": "/simplenote-app/static/css/main.77e33b8a.chunk.css.map",
+    "static/js/2.9df176af.chunk.js.LICENSE.txt": "/simplenote-app/static/js/2.9df176af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63e56023.js",
+    "static/js/2.9df176af.chunk.js",
+    "static/css/main.77e33b8a.chunk.css",
+    "static/js/main.64a9cb25.chunk.js"
+  ]
+}
